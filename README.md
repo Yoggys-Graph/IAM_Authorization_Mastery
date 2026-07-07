@@ -4,21 +4,23 @@
 
 ---
 
-##📌 Overview
+## 📌 Overview
 
-This project showcases my successful completion of the “Manage Authorization” activity on Google Skills, where I achieved a perfect score of 100%.
-It reflects my growing expertise in Identity & Access Management (IAM) and my commitment to building secure, scalable systems.
+- This project showcases my successful completion of the “Manage Authorization” activity on Google Skills, where I achieved a perfect score of 100% using Linux.
+- It reflects my growing expertise in Identity & Access Management (IAM) and my commitment to building secure, scalable systems.
 
 ---
 
-##🎯 Objective
+## 🎯 Objective
 
 To demonstrate practical knowledge of:
 - Authorization concepts
 - Access control mechanisms
 - Security best practices in IAM systems
 
-##🏆 Achievement
+---
+
+## 🏆 Achievement
 
 ✅ Completed: Manage Authorization
 💯 Score: 100%
@@ -26,7 +28,7 @@ To demonstrate practical knowledge of:
 
 ---
 
-##🧩 Key Concepts Covered
+## 🧩 Key Concepts Covered
 
 - Role-Based Access Control (RBAC)
 - Principle of Least Privilege
@@ -34,10 +36,14 @@ To demonstrate practical knowledge of:
 - Permission Policies
 - Identity Governance Basics
 
-##🛠️ Tools & Technologies
+---
+
+## 🛠️ Tools & Technologies
 
 - Linux bash
 - IAM Concepts (Google Cloud inspired)
+
+---
 
 ![Google Skills Achievement](./assets/google-skills-achievement.jpg)
 
